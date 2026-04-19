@@ -2,6 +2,9 @@
 
 This repository showcases selected data analytics projects completed during the **Orange Data Analytics Training Program**.
 
+### 🏆 Internship Certificate
+[![Orange Certificate](image-filename.png)](orange.pdf)
+
 The projects demonstrate hands-on experience with large-scale datasets, SQL analysis, Power BI dashboards, and business intelligence workflows. 
 
 Through these projects, key business questions were answered, including:
